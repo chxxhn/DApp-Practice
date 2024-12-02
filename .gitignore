@@ -1,0 +1,10 @@
+# frontend (client)
+node_modules/
+
+# contract
+contracts/lib/
+contracts/out/
+contracts/build/
+contracts/cache/
+
+.env
