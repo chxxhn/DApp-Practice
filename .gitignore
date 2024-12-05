@@ -6,5 +6,6 @@ contracts/lib/
 contracts/out/
 contracts/build/
 contracts/cache/
+contracts/broadcast/
 
 .env
